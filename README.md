@@ -1,9 +1,9 @@
 # Use the following covid_vaccine_statewise.csv dataset and perform following analytics on the given dataset covid_vaccine_statewise.csv
-##a. Describe the dataset
-##b. Number of persons state wise vaccinated for first dose in India
-##c. Number of persons state wise vaccinated for second dose in India
-##d. Number of Males vaccinated
-##e. Number of females vaccinated
+## 1. Describe the dataset
+## 2. Number of persons state wise vaccinated for first dose in India
+## 3. Number of persons state wise vaccinated for second dose in India
+## 4. Number of Males vaccinated
+## 5. Number of females vaccinated
 
 # Install required libraries
 pip install pandas numpy (windows) <br>
